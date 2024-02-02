@@ -1,3 +1,5 @@
+LinkedIn: www.linkedin.com/in/furkan-ali-turan-28b3aa212
+
 Computer guy interested in lifting, history and robotics.
 
 Modeling stuff since 2012, programming stuff since 2017. I wanted to have a real Computer Science degree after making games for mobile game publishers for some time.
