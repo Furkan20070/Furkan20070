@@ -27,7 +27,5 @@ An alien spaceship I modeled in Blender.
 
 Gameplay video from my last Unity game, "Anarchy Pizza"
 
-https://www.youtube.com/watch?v=0DRX37GR7c4
-
-![Screenshot_4](https://github.com/Furkan20070/Furkan20070/assets/126661211/2f7834f1-ae24-4f84-a424-0a40280a82bd)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0DRX37GR7c4?si=RNCWpuKm7tUWv7Dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
