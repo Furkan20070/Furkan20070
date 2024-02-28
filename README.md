@@ -25,7 +25,10 @@ Small 3D volleyball game I made with JavaScript.
 
 An alien spaceship I modeled in Blender.
 
-Gameplay video from my last Unity game, "Anarchy Pizza"
+Gameplay video from my last Unity game, "Football Rush"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0DRX37GR7c4?si=RNCWpuKm7tUWv7Dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://github.com/Furkan20070/Furkan20070/assets/126661211/433bd7ef-a42a-4cca-ae86-0439ba89d782
+
+
+
 
